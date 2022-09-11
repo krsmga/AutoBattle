@@ -1,13 +1,25 @@
-C:\Users\ezio.filho\source\repos\AutoBattle\AutoBattle\bin\Debug\netcoreapp3.1\AutoBattle.exe
-C:\Users\ezio.filho\source\repos\AutoBattle\AutoBattle\bin\Debug\netcoreapp3.1\AutoBattle.deps.json
-C:\Users\ezio.filho\source\repos\AutoBattle\AutoBattle\bin\Debug\netcoreapp3.1\AutoBattle.runtimeconfig.json
-C:\Users\ezio.filho\source\repos\AutoBattle\AutoBattle\bin\Debug\netcoreapp3.1\AutoBattle.runtimeconfig.dev.json
-C:\Users\ezio.filho\source\repos\AutoBattle\AutoBattle\bin\Debug\netcoreapp3.1\AutoBattle.dll
-C:\Users\ezio.filho\source\repos\AutoBattle\AutoBattle\bin\Debug\netcoreapp3.1\AutoBattle.pdb
-C:\Users\ezio.filho\source\repos\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.AssemblyInfoInputs.cache
-C:\Users\ezio.filho\source\repos\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.AssemblyInfo.cs
-C:\Users\ezio.filho\source\repos\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.csproj.CoreCompileInputs.cache
-C:\Users\ezio.filho\source\repos\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.dll
-C:\Users\ezio.filho\source\repos\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.pdb
-C:\Users\ezio.filho\source\repos\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.genruntimeconfig.cache
-C:\Users\ezio.filho\source\repos\AutoBattle\AutoBattle\obj\Debug\netcoreapp3.1\AutoBattle.csprojAssemblyReference.cache
+C:/Users/ezio.filho/source/repos/AutoBattle/AutoBattle/bin/Debug/netcoreapp3.1/AutoBattle.exe
+C:/Users/ezio.filho/source/repos/AutoBattle/AutoBattle/bin/Debug/netcoreapp3.1/AutoBattle.deps.json
+C:/Users/ezio.filho/source/repos/AutoBattle/AutoBattle/bin/Debug/netcoreapp3.1/AutoBattle.runtimeconfig.json
+C:/Users/ezio.filho/source/repos/AutoBattle/AutoBattle/bin/Debug/netcoreapp3.1/AutoBattle.runtimeconfig.dev.json
+C:/Users/ezio.filho/source/repos/AutoBattle/AutoBattle/bin/Debug/netcoreapp3.1/AutoBattle.dll
+C:/Users/ezio.filho/source/repos/AutoBattle/AutoBattle/bin/Debug/netcoreapp3.1/AutoBattle.pdb
+C:/Users/ezio.filho/source/repos/AutoBattle/AutoBattle/obj/Debug/netcoreapp3.1/AutoBattle.AssemblyInfoInputs.cache
+C:/Users/ezio.filho/source/repos/AutoBattle/AutoBattle/obj/Debug/netcoreapp3.1/AutoBattle.AssemblyInfo.cs
+C:/Users/ezio.filho/source/repos/AutoBattle/AutoBattle/obj/Debug/netcoreapp3.1/AutoBattle.csproj.CoreCompileInputs.cache
+C:/Users/ezio.filho/source/repos/AutoBattle/AutoBattle/obj/Debug/netcoreapp3.1/AutoBattle.dll
+C:/Users/ezio.filho/source/repos/AutoBattle/AutoBattle/obj/Debug/netcoreapp3.1/AutoBattle.pdb
+C:/Users/ezio.filho/source/repos/AutoBattle/AutoBattle/obj/Debug/netcoreapp3.1/AutoBattle.genruntimeconfig.cache
+C:/Users/ezio.filho/source/repos/AutoBattle/AutoBattle/obj/Debug/netcoreapp3.1/AutoBattle.csprojAssemblyReference.cache
+/Volumes/External/Projetos Outros/AutoBattle/AutoBattle/obj/Debug/netcoreapp3.1/AutoBattle.csprojAssemblyReference.cache
+/Volumes/External/Projetos Outros/AutoBattle/AutoBattle/obj/Debug/netcoreapp3.1/AutoBattle.AssemblyInfoInputs.cache
+/Volumes/External/Projetos Outros/AutoBattle/AutoBattle/obj/Debug/netcoreapp3.1/AutoBattle.AssemblyInfo.cs
+/Volumes/External/Projetos Outros/AutoBattle/AutoBattle/obj/Debug/netcoreapp3.1/AutoBattle.csproj.CoreCompileInputs.cache
+/Volumes/External/Projetos Outros/AutoBattle/AutoBattle/obj/Debug/netcoreapp3.1/AutoBattle.dll
+/Volumes/External/Projetos Outros/AutoBattle/AutoBattle/obj/Debug/netcoreapp3.1/AutoBattle.pdb
+/Volumes/External/Projetos Outros/AutoBattle/AutoBattle/bin/Debug/netcoreapp3.1/AutoBattle.deps.json
+/Volumes/External/Projetos Outros/AutoBattle/AutoBattle/bin/Debug/netcoreapp3.1/AutoBattle.runtimeconfig.json
+/Volumes/External/Projetos Outros/AutoBattle/AutoBattle/bin/Debug/netcoreapp3.1/AutoBattle.runtimeconfig.dev.json
+/Volumes/External/Projetos Outros/AutoBattle/AutoBattle/bin/Debug/netcoreapp3.1/AutoBattle.dll
+/Volumes/External/Projetos Outros/AutoBattle/AutoBattle/bin/Debug/netcoreapp3.1/AutoBattle.pdb
+/Volumes/External/Projetos Outros/AutoBattle/AutoBattle/obj/Debug/netcoreapp3.1/AutoBattle.genruntimeconfig.cache

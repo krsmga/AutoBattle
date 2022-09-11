@@ -84,7 +84,7 @@ namespace AutoBattle
                     battlefield.drawBattlefield(5, 5);
                     this.currentBox.ocupied = false;
                     battlefield.grids[currentBox.Index] = currentBox;
-                    this.currentBox = (battlefield.grids.Find(x => x.Index == currentBox.Index - battlefield.xLenght));
+                    this.currentBox = (battlefield.grids.Find(x => x.Index == currentBox.Index - battlefield.GetRowsSize()));
                     this.currentBox.ocupied = true;
                     battlefield.grids[currentBox.Index] = currentBox;
                     Console.WriteLine($"Player {PlayerIndex} walked up\n");
@@ -94,7 +94,7 @@ namespace AutoBattle
                 {
                     this.currentBox.ocupied = true;
                     battlefield.grids[currentBox.Index] = this.currentBox;
-                    this.currentBox = (battlefield.grids.Find(x => x.Index == currentBox.Index + battlefield.xLenght));
+                    this.currentBox = (battlefield.grids.Find(x => x.Index == currentBox.Index + battlefield.GetRowsSize()));
                     this.currentBox.ocupied = false;
                     battlefield.grids[currentBox.Index] = currentBox;
                     Console.WriteLine($"Player {PlayerIndex} walked down\n");
@@ -110,8 +110,8 @@ namespace AutoBattle
         {
             bool left = (battlefield.grids.Find(x => x.Index == currentBox.Index - 1).ocupied);
             bool right = (battlefield.grids.Find(x => x.Index == currentBox.Index + 1).ocupied);
-            bool up = (battlefield.grids.Find(x => x.Index == currentBox.Index + battlefield.xLenght).ocupied);
-            bool down = (battlefield.grids.Find(x => x.Index == currentBox.Index - battlefield.xLenght).ocupied);
+            bool up = (battlefield.grids.Find(x => x.Index == currentBox.Index + battlefield.GetRowsSize()).ocupied);
+            bool down = (battlefield.grids.Find(x => x.Index == currentBox.Index - battlefield.GetRowsSize()).ocupied);
 
             if (left & right & up & down) 
             {

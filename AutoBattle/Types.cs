@@ -33,6 +33,12 @@ namespace AutoBattle
 
         }
 
+        public enum GridCells: uint
+        {
+            row = 0,
+            col = 1
+        }
+
         public struct CharacterSkills
         {
             string Name;
@@ -47,6 +53,8 @@ namespace AutoBattle
             Cleric = 3,
             Archer = 4
         }
+
+        
 
     }
 }

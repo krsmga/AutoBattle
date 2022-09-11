@@ -11,7 +11,7 @@ namespace AutoBattle
     {
         static void Main(string[] args)
         {
-            Grid grid = new Grid(5, 5);
+            Grid grid = new Grid();
             CharacterClass playerCharacterClass;
             GridBox PlayerCurrentLocation;
             GridBox EnemyCurrentLocation;
@@ -25,7 +25,7 @@ namespace AutoBattle
 
             void Setup()
             {
-
+                CreateBattleField();
                 GetPlayerChoice();
             }
 
@@ -55,6 +55,35 @@ namespace AutoBattle
                         GetPlayerChoice();
                         break;
                 }
+            }
+
+            void CreateBattleField()
+            {
+                Console.WriteLine("Choose the battlefield's number of Rows (max. 10 rows)");
+                Console.WriteLine("or press ENTER to standard battlefield (8x8):");
+                string value = Console.ReadLine();
+                if (!string.IsNullOrEmpty(value))
+                {
+                    if (!grid.SetRowsSize(value))
+                    {
+                        Console.WriteLine("The value of rows is invalid, please try again.");
+                        CreateBattleField();
+                    }
+
+                    Console.WriteLine("Choose the battlefield's number of Columns (max. 10 columns)");
+                    value = Console.ReadLine();
+                    if (!grid.SetColsSize(value))
+                    {
+                        Console.WriteLine("The value of columns is invalid, please try again.");
+                        CreateBattleField();
+                    }
+                }
+                grid.Create();
+            }
+
+            void ReadBattleFieldRows()
+            {
+
             }
 
             void CreatePlayerCharacter(int classIndex)
